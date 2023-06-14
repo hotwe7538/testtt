@@ -1,0 +1,2 @@
+This is message from the Web.
+Git is so versatile for cloud.
